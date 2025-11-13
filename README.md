@@ -19,7 +19,7 @@ Data Analytics – Gained hands-on experience in data visualization (Tableau, Po
 
 Full Stack Web Development – Built responsive web applications using modern frameworks and tools (HTML, CSS, JavaScript, React, Node.js, MongoDB).
 
-Generative AI – Explored prompt engineering, fine-tuning models (GPT, LLaMA, Grok), and building AI-powered applications (Image Analysis,chatbots, RAG pipelines, etc.).<br></h2>
+Generative AI – Explored prompt engineering, fine-tuning models (GPT, LLaMA, Grok), and building AI-powered applications (Image Analysis,chatbots, RAG pipelines, n8n workflows etc.).<br></h2>
 
 📊 GitHub Stats:
 <div align="center">
