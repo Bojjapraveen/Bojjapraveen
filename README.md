@@ -35,7 +35,11 @@ Generative AI – Explored prompt engineering, fine-tuning models (GPT, LLaMA, G
 <div style="overflow-y: scroll; max-height: 300px; padding: 10px;">
 Your long content here. This content will scroll if it exceeds the maximum height.
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Bojjapraveen's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 
 
